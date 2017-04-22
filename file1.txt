@@ -1,2 +1,3 @@
-commit other initi file1
+commit other initi file1 --- add to commit 3
 othe commit
+ 
